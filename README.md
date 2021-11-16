@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" />
 
 - 👀 I’m interested in Software Engineering;
-- 🌱 I’m currently studying at University Of Catania;
+- 🌱 I’m currently studying CS at University Of Catania;
 - 😎 I use daily ```.java```
 
 
