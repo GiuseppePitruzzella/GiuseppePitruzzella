@@ -1,7 +1,7 @@
 <h1>
   Hi, I'm Jax! 🇮🇹
 </h1>
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" />
+<a href="https://app.daily.dev/giupitru"><img src="https://api.daily.dev/devcards/542e9b84bef04f559301a3ed1e26c773.png?r=njq" width="240" align="right" alt="Giuseppe's Dev Card"/></a>
 
 - 👀 I’m interested in Software Engineering;
 - 🌱 I’m currently studying CS at University Of Catania;
@@ -9,7 +9,7 @@
 
 
 <p></p>
-<table>
+<table align=left>
     <tbody>
         <tr>
            <td><a href="#"><img alt="Java" title="Java" height="28px"
@@ -23,6 +23,8 @@
         </tr>
     </tbody>
 </table>
+<br><br><br>
+<img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" />
       
 <!---
 GiuseppePitruzzella/GiuseppePitruzzella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
