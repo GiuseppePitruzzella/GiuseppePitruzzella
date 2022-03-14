@@ -3,7 +3,7 @@
 </h1>
 <a href="https://app.daily.dev/giupitru"><img src="https://api.daily.dev/devcards/542e9b84bef04f559301a3ed1e26c773.png?r=njq" width="240" align="right" alt="Giuseppe's Dev Card"/></a>
 
-- 👀 I’m interested in Software Engineering;
+- 👀 I’m interested in Internet Security and Software Engineering;
 - 🌱 I’m currently studying CS at University Of Catania;
 - 😎 I use daily ```.java```
 
