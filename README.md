@@ -15,7 +15,7 @@
            <td><a href="#"><img alt="Java" title="Java" height="28px"
                       src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
             <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
+                        src="https://img.icons8.com/stickers/344/c.png" /></a></td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                     src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
