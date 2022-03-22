@@ -5,23 +5,23 @@
 
 - 👀 I’m interested in Internet Security and Software Engineering;
 - 🌱 I’m currently studying CS at University Of Catania;
-- 😎 I use daily ```.java```
-
 
 <p></p>
 <table align=left>
     <tbody>
         <tr>
            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
+                      src="https://img.icons8.com/dusk/344/c-plus-plus.png" /></a></td>
             <td><a href="#"><img alt="C" title="C" height="28px"
                         src="https://img.icons8.com/stickers/344/c.png" /></a></td>
+            <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
             <td><a href="#"><img alt="Visual Studio" title="Docker" height="28px"
                     src="https://img.icons8.com/dusk/344/docker.png" /></a></td>
           <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                    src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+                    src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+                        src="https://img.icons8.com/stickers/344/console.png" /></a>
         </tr>
     </tbody>
 </table>
