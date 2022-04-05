@@ -25,7 +25,7 @@
         </tr>
     </tbody>
 </table>
-<br><br><br>
+<br /><br /><br /><br />
 <img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" />
       
 <!---
