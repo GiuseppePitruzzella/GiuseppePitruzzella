@@ -1,3 +1,4 @@
+<!-- WIP -->
 <h1>
   Hi, I'm Jax! 🇮🇹
 </h1>
@@ -21,33 +22,16 @@
           <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                     src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://img.icons8.com/stickers/344/console.png" /></a>
+                                 src="https://img.icons8.com/stickers/344/console.png"/></a></td>
         </tr>
     </tbody>
 </table>
 <br /><br /><br /><br />
 <img align="left" alt="GIF" height="160px" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif" />
+<br /><br /><br /><br /><br /><br /><br />
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGiuseppePitruzzella&count_bg=%23D96E6E&title_bg=%23555555&icon=&icon_color=%23E96767&title=%28%E3%81%A3%E2%97%94%E2%97%A1%E2%97%94%29%E3%81%A3+%E2%99%A5+%D0%BD%CE%B9%D1%82%D1%95+%E2%99%A5&edge_flat=false"/></a>
       
 <!---
 GiuseppePitruzzella/GiuseppePitruzzella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!-- - 📚 My notes of learning at [example.com/notes](yourNotesHere). -->
-
-<!--
-[![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
-[![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://dinhanhthi.com/tags#linux)
-[![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-eee?style=flat-square&logo=gnu-bash&logoColor=663399)](https://dinhanhthi.com/tags#bash)
-[![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://dinhanhthi.com/git)
-[![Sphinx](http://img.shields.io/badge/-Sphinx-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAABI1BMVEUAAAAIR2wIRmsJR2wHR2sJSGwJR20JRm0IR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIRmwIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2wIR2z///+XvfDmAAAAYHRSTlMAAAAAAAAAAAYfPksyExhAcqjExse9k1lEIQOHzMXBu8vWw8lmit3OgkKw/n5s4s9RAU+htpW3dpfkaRsqVy5HfJim59gkswd3UNs7ozoVAZZdsQsOi52nXghjCjg9EgKZIX1LAAAAlUlEQVQI11WOvQ7BYABF7/laIWqQRproZrHb2P0MVpPByxk6iL4Fu82moxCRRlQa4jPUT9zl5uQsB/0NiR9ZjJXKAGRPCVMDwBoACIvjUnXJK4Tem8k8oANJK60D7Jvg9D72urmJAUl60JBjwG4rxgBnf911IBYTWLUDWPj9SIIppwZzzZajWJYi0X2U7pL9BjuSm0sv/jwjvB/O1IMAAAAASUVORK5CYII=)](/sphinx-restructuredtext)
-<a target="_blank" href="https://www.instagram.com/absphreak/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-<a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  
-  <p align="center"><img src="https://profile-counter.glitch.me/{GiuseppePitruzzella}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
-  
--->
