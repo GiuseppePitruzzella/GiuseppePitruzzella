@@ -13,10 +13,9 @@
         <tr>
            <td><a href="#"><img alt="C++" title="C++" height="28px"
                       src="https://img.icons8.com/dusk/344/c-plus-plus.png" /></a></td>
+            <td><a href="#"><img src="https://img.icons8.com/dusk/28/000000/python.png"/></a></td>
             <td><a href="#"><img alt="C" title="C" height="28px"
                         src="https://img.icons8.com/stickers/344/c.png" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
-                        src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-java-mobile-app-development-flaticons-lineal-color-flat-icons-4.png" /></a></td>
             <td><a href="#"><img alt="Visual Studio" title="Docker" height="28px"
                     src="https://img.icons8.com/dusk/344/docker.png" /></a></td>
           <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
