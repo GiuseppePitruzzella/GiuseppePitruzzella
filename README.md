@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m interested in Software Development;<br>🌱 I’m currently studying CS at University Of Catania;
+💻 I’m interested in Software Development;<br>🌱 ʙꜱᴄ 𝒾𝓃 ᴄꜱ
 
 
 # 💻 Tech Stack:
