@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jax&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<a href="https://app.daily.dev/giupitru"><img src="https://api.daily.dev/devcards/542e9b84bef04f559301a3ed1e26c773.png?r=njq" width="240" align="left" alt="Giuseppe's Dev Card"/></a>
